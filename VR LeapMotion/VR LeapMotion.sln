@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR LeapMotion", "VR LeapMotion.csproj", "{04CF0A35-3F86-5C7F-14C4-B3F5FAACB5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR LeapMotion.Editor", "VR LeapMotion.Editor.csproj", "{0BD1E24F-4F08-2521-2EE1-91DB3EBFCE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04CF0A35-3F86-5C7F-14C4-B3F5FAACB5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CF0A35-3F86-5C7F-14C4-B3F5FAACB5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CF0A35-3F86-5C7F-14C4-B3F5FAACB5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CF0A35-3F86-5C7F-14C4-B3F5FAACB5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD1E24F-4F08-2521-2EE1-91DB3EBFCE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD1E24F-4F08-2521-2EE1-91DB3EBFCE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD1E24F-4F08-2521-2EE1-91DB3EBFCE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD1E24F-4F08-2521-2EE1-91DB3EBFCE08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
